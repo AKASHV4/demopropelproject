@@ -6,7 +6,7 @@ public class DOB {
 		// TODO Auto-generated method stub
 //HELLOWOLD
 		System.out.println("KCJNKSJVBCJKHJJHHJJHJVH MNJ");
-		System.out.println();
+		
 	}
 
 }

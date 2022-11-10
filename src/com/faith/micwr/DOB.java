@@ -5,7 +5,8 @@ public class DOB {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //HELLOWOLD
-		System.out.println("KCJNKSJVBCJK");
+		System.out.println("KCJNKSJVBCJKHJJHHJJHJVH MNJ");
+		System.out.println();
 	}
 
 }
